@@ -14,7 +14,7 @@ More details are being added ...
 
 If you find this repository useful in your research, please cite the following paper:
 ```
-@inproceedings{ Zheng-AAAI2020,
+@inproceedings{ GMAN-AAAI2020,
   author = "Chuanpan Zheng and Xiaoliang Fan and Cheng Wang and Jianzhong Qi"
   title = "GMAN: A Graph Multi-Attention Network for Traffic Prediction",
   booktitle = "AAAI",
