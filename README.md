@@ -5,7 +5,7 @@
 </p>
 
 
-This is a TensorFlow implementation of Graph Multi-Attention Network in the following paper: \
+This is the implementation of Graph Multi-Attention Network in the following paper: \
 Chuanpan Zheng, Xiaoliang Fan, Cheng Wang, and Jianzhong Qi, GMAN: A Graph Multi-Attention Network for Traffic Prediction, AAAI2020
 
 More details will be added ...
