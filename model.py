@@ -170,7 +170,7 @@ def gatedFusion(HS, HT, D, bn, bn_decay, is_training):
         bn = bn, bn_decay = bn_decay, is_training = is_training)
     return H
 
-def STAttBlock(X, STE, K, d, bn, bn_decay, is_training, mask = True):
+def STAttBlock(X, STE, K, d, bn, bn_decay, is_training, mask = False):
     HS = spatialAttention(X, STE, K, d, bn, bn_decay, is_training)
     HT = temporalAttention(X, STE, K, d, bn, bn_decay, is_training, mask = mask)
     H = gatedFusion(HS, HT, K * d, bn, bn_decay, is_training)
