@@ -14,7 +14,7 @@ The datasets could be downloaded from [Google Drive](https://drive.google.com/op
 
 ## Results
 <p align="center">
-  <img width="800" height="400" src=./figure/results.png>
+  <img width="900" height="400" src=./figure/results.png>
 </p>
 
 ## Citation
