@@ -18,6 +18,9 @@ Python 3.7.10, tensorflow 1.14.0, numpy 1.16.4, pandas 0.24.2
   <img width="900" height="400" src=./figure/results.png>
 </p>
 
+## Third-party re-implementations
+A Pytorch implementaion by [VincLee8188](https://github.com/VincLee8188) is available at [GMAN-Pytorch](https://github.com/VincLee8188/GMAN-PyTorch).
+
 ## Citation
 
 If you find this repository useful in your research, please cite the following paper:
