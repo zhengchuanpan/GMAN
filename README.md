@@ -8,7 +8,10 @@ This is the implementation of Graph Multi-Attention Network in the following pap
 Chuanpan Zheng, Xiaoliang Fan, Cheng Wang, and Jianzhong Qi. "[GMAN: A Graph Multi-Attention Network for Traffic Prediction (https://ojs.aaai.org/index.php/AAAI/article/view/5477)", AAAI2020
 
 ## Data
-The datasets could be downloaded from [Google Drive](https://drive.google.com/open?id=10FOTa6HXPqX8Pf5WRoRwcFnW9BrNZEIX) or [Baidu Yun](https://pan.baidu.com/s/14Yy9isAIZYdU__OYEQGa_g), provided by [DCRNN](https://github.com/liyaguang/DCRNN), and should be put into the corresponding `data/` folder.
+The datasets are available at [Google Drive](https://drive.google.com/open?id=10FOTa6HXPqX8Pf5WRoRwcFnW9BrNZEIX) or [Baidu Yun](https://pan.baidu.com/s/14Yy9isAIZYdU__OYEQGa_g), provided by [DCRNN](https://github.com/liyaguang/DCRNN), and should be put into the corresponding `data/` folder.
+
+## Requirements
+Python 3.7.10, tensorflow 1.14.0, numpy 1.16.4, pandas 0.24.2
 
 ## Results
 <p align="center">
