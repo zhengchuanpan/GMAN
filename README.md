@@ -15,7 +15,7 @@ Python 3.7.10, tensorflow 1.14.0, numpy 1.16.4, pandas 0.24.2
 
 ## Results
 <p align="center">
-  <img width="600" height="250" src=./figure/results.png>
+  <img width="900" height="400" src=./figure/results.png>
 </p>
 
 ## Citation
