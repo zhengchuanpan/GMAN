@@ -1,4 +1,0 @@
-tensorflow>=1.14
-numpy
-pandas
-argparse
